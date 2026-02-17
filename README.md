@@ -27,7 +27,7 @@ cd backend
 npm install
 npm start
 
-**### 3. Backend Setup**
+**### 3. Frontend Setup**
 cd frontend
 npm install
 npm start
