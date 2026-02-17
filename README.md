@@ -22,12 +22,15 @@ A professional Point of Sale (POS) system built for managing spare parts invento
 2. Ensure your MySQL server is running on the default port.
 
 ### 2. Backend Setup
-```bash
+\`\`\`bash
 cd backend
 npm install
 npm start
+\`\`\`
 
-**### 3. Frontend Setup**
+### 3. Frontend Setup
+\`\`\`bash
 cd frontend
 npm install
 npm start
+\`\`\`
